@@ -2,6 +2,8 @@
 Final Fantasy 14 Crafting Macros
 
 - [ffiv-crafting-macros](#ffiv-crafting-macros)
+  - [Guide](#guide)
+    - [Naming Style](#naming-style)
   - [Level 7](#level-7)
     - [L7/D50 CP160 2.0x](#l7d50-cp160-20x)
     - [L7/D50 CP178 3.0x](#l7d50-cp178-30x)
@@ -14,6 +16,17 @@ Final Fantasy 14 Crafting Macros
     - [L18/D40 CP182 X1.5](#l18d40-cp182-x15)
     - [L18/D40 CP182 3.0x](#l18d40-cp182-30x)
   - [Level 81-ish](#level-81-ish)
+
+## Guide
+
+### Naming Style
+
+`L7/D50 CP160 2.0x`
+
+- `L7`: The macro uses no skill higher than level 7.  Whether or not it is usable at that level depends on whether your gear has enough CP on it.
+- `D50`: The most that durability will be reduced by during the macro.  For some macros, they are designed to never use more than 30 durability before using Master's Mend to restore durability.  Or they never use more than 50 durability in total.  A macro that only uses 40 durability can be used on all recipes where the item has at least 40 durability.
+- `CP160`: The number of CP required to use this macro.  
+- `2.0x`: How much progress the macro makes.  This is very important, because if you fail to increase the progress bar to 100% is a failed synthesis.  You can estimate what multiplier you will need by taking the difficulty of the recipe and dividing by the "at 100% progress will increase by ###" value. It does not hurt too much to overshoot on progress.
 
 ## Level 7
 
