@@ -4,6 +4,13 @@ At level 18, you gain "Standard Touch", plus you picked up "Waste Not" and "Vene
 
 TODO: Rewrite these macros to use "Standard Touch" in combination with "Basic Touch".  I also need to double-check the label values for durability / CP used.
 
+- [Level 18](#level-18)
+  - [L18/D40 CP182 X1.5](#l18d40-cp182-x15)
+  - [L18/D40 CP182 3.0x](#l18d40-cp182-30x)
+  - [L18/D60 CPxxx X1.5](#l18d60-cpxxx-x15)
+  - [L18/D70 CP200 X3.0](#l18d70-cp200-x30)
+  - [L18/D70 CP200 X4.5](#l18d70-cp200-x45)
+
 ## L18/D40 CP182 X1.5
 ```
 /ac "Waste Not" <wait.2>
