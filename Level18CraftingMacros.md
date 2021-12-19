@@ -53,6 +53,9 @@ TODO: Rewrite these macros to use "Standard Touch" in combination with "Basic To
 ```
 
 ## L18/D70 CP200 3.0x
+
+This macro could have the last "Basic Touch" removed if you need a macro that is capable of making a durability 60 recipe.  You might have trouble getting 100% HQ by doing so, but maybe there's a recipe where you don't have 70 durability to play with.
+
 ```
 /ac "Waste Not" <wait.2>
 /ac "Basic Touch" <wait.3>
@@ -68,18 +71,21 @@ TODO: Rewrite these macros to use "Standard Touch" in combination with "Basic To
 /echo Macro Complete <se.1>
 ```
 
-## L18/D70 CP200 X4.5
+## L18/D70 CP182 4.5x
+
+This macro could have the last "Standard Touch" removed if you need a macro that is capable of making a durability 60 recipe. You might have trouble getting 100% HQ by doing so, but maybe there's a recipe where you don't have 70 durability to play with.
+
 ```
 /ac "Waste Not" <wait.2>
 /ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Veneration" <wait.2>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
-/echo Macro #1 complete <se.1>
+/echo Macro Complete <se.1>
 ```
