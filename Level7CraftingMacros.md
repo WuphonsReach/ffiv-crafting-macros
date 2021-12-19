@@ -17,7 +17,7 @@ Prior to level 7, you'll only have "Basic Synthesis" and "Basic Touch" (level 5)
 /ac "Basic Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Basic Synthesis" <wait.3>
-/echo Craft finished <se.1>
+/echo Macro Complete <se.1>
 ```
 
 ## L7/D30 CP178 2.0x
@@ -29,7 +29,7 @@ Prior to level 7, you'll only have "Basic Synthesis" and "Basic Touch" (level 5)
 /ac "Basic Touch" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
-/echo Craft finished <se.1>
+/echo Macro Complete <se.1>
 ```
 
 ## L7/D50 CP160 2.0x
@@ -42,7 +42,7 @@ Prior to level 7, you'll only have "Basic Synthesis" and "Basic Touch" (level 5)
 /ac "Master's Mend" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
-/echo Macro #1 complete <se.1>
+/echo Macro Complete <se.1>
 ```
 
 ## L7/D50 CP178 3.0x
@@ -56,5 +56,5 @@ Prior to level 7, you'll only have "Basic Synthesis" and "Basic Touch" (level 5)
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
-/echo Macro #1 complete <se.1>
+/echo Macro Complete <se.1>
 ```
