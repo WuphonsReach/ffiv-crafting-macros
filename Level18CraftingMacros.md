@@ -1,8 +1,8 @@
 # Level 18
 
-At level 18, you gain "Standard Touch", plus you picked up "Waste Not" and "Veneration" at level 15.  This gives a boost in being able to get a HQ result from your macros without needing all input materials as HQ.
+At level 18, you gain "Standard Touch", plus you picked up "Waste Not" and "Veneration" at level 15.  This gives a boost in being able to get a HQ result from your macros without needing all input materials as HQ.  With the changes in Endwalker, you will likely find it a lot easier to get HQ results without using any HQ materials.
 
-TODO: Rewrite these macros to use "Standard Touch" in combination with "Basic Touch".  I also need to double-check the label values for durability / CP used.
+Note that "L18/D70 CP182 4.5x" is likely to be your most-used macro in this tier for crafting finished products.
 
 - [Level 18](#level-18)
   - [L18/D40 CP182 X1.5](#l18d40-cp182-x15)
@@ -54,7 +54,7 @@ TODO: Rewrite these macros to use "Standard Touch" in combination with "Basic To
 
 ## L18/D70 CP200 3.0x
 
-This macro could have the last "Basic Touch" removed if you need a macro that is capable of making a durability 60 recipe.  You might have trouble getting 100% HQ by doing so, but maybe there's a recipe where you don't have 70 durability to play with.
+This macro could have the last "Basic Touch" removed if you need a macro that is capable of making a durability 60 recipe.  You might have trouble getting 100% HQ by doing so, but maybe there's a recipe where you don't have 70 durability to play with.  You may have to feed in some HQ materials to achieve 100% HQ results.
 
 ```
 /ac "Waste Not" <wait.2>
@@ -73,7 +73,7 @@ This macro could have the last "Basic Touch" removed if you need a macro that is
 
 ## L18/D70 CP182 4.5x
 
-This macro could have the last "Standard Touch" removed if you need a macro that is capable of making a durability 60 recipe. You might have trouble getting 100% HQ by doing so, but maybe there's a recipe where you don't have 70 durability to play with.
+This macro could have the last "Standard Touch" removed if you need a macro that is capable of making a durability 60 recipe. You might have trouble getting 100% HQ by doing so, but maybe there's a recipe where you don't have 70 durability to play with.  You may have to feed in some HQ materials to achieve 100% HQ results.
 
 ```
 /ac "Waste Not" <wait.2>
