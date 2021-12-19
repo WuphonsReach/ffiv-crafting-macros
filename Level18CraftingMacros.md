@@ -8,7 +8,7 @@ Note that "L18/D70 CP182 4.5x" is likely to be your most-used macro in this tier
   - [L18/D40 CP182 X1.5 (needs validated / tweaked)](#l18d40-cp182-x15-needs-validated--tweaked)
   - [L18/D40 CP182 3.0x  (needs validated / tweaked)](#l18d40-cp182-30x--needs-validated--tweaked)
   - [L18/D60 CPxxx 1.5x  (needs validated / tweaked)](#l18d60-cpxxx-15x--needs-validated--tweaked)
-  - [L18/D70 CP200 3.0x](#l18d70-cp200-30x)
+  - [L18/D60 CP182 3.0x](#l18d60-cp182-30x)
   - [L18/D70 CP182 4.5x](#l18d70-cp182-45x)
 
 ## L18/D40 CP182 X1.5 (needs validated / tweaked)
@@ -55,9 +55,7 @@ Note that "L18/D70 CP182 4.5x" is likely to be your most-used macro in this tier
 /echo Macro Complete <se.1>
 ```
 
-## L18/D70 CP200 3.0x
-
-This macro could have the last "Basic Touch" removed if you need a macro that is capable of making a durability 60 recipe.  You might have trouble getting 100% HQ by doing so, but maybe there's a recipe where you don't have 70 durability to play with.  You may have to feed in some HQ materials to achieve 100% HQ results if you remove the last "Basic Touch".
+## L18/D60 CP182 3.0x
 
 ```
 /ac "Waste Not" <wait.2>
