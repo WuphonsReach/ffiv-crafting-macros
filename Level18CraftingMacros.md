@@ -52,20 +52,20 @@ TODO: Rewrite these macros to use "Standard Touch" in combination with "Basic To
 /echo Macro #1 complete <se.1>
 ```
 
-## L18/D70 CP200 X3.0
+## L18/D70 CP200 3.0x
 ```
 /ac "Waste Not" <wait.2>
 /ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Veneration" <wait.2>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
-/echo Macro #1 complete <se.1>
+/echo Macro Complete <se.1>
 ```
 
 ## L18/D70 CP200 X4.5
