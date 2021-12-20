@@ -13,6 +13,7 @@ Crafting macros that have been updated for the Endwalker expansion.
 
 - [Level 7](Level7CraftingMacros.md)
 - [Level 18](Level18CraftingMacros.md)
+- [Level 26](Level26CraftingMacros.md)
 
 ## Guide
 
