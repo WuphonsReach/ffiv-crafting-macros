@@ -2,6 +2,8 @@
 
 At level 26, you gain "Innovation" which is a big boost (+50%) to the amount of quality gain you get per round. At this level you should have around 260-280 CP (maybe as much as 300).
 
+From here until level 50, the "L26/D55 CP256 4.5x" is going to be your primary macro.  I don't recommend trying to make any recipes that require a progress multiplier above 4.5x.
+
 - [Level 26](#level-26)
   - [L26/D55 CP256 4.5x](#l26d55-cp256-45x)
 
