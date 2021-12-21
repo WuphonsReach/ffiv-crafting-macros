@@ -11,7 +11,7 @@ Crafting macros that have been updated for the Endwalker expansion.
 
 ## Macros by Minimum Level
 
-Macros are broken down into tiers based on the minimum crafting level in order to use the required skills.  You don't need to create brand new macros every time you learn a new skill.  Instead, you can save time and energy by waiting for key skills.
+Macros are broken down into tiers based on the minimum crafting level in order to use the required skills.  You don't need to create brand new macros every time you learn a new skill.  Instead, you can save effort by waiting for key skills.
 
 - [Level 7](Level7CraftingMacros.md)
 - [Level 18](Level18CraftingMacros.md)
