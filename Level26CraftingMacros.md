@@ -8,8 +8,11 @@ Starting around level 30, you may start having trouble hitting 100% completion o
 
 At 31, you gain "Basic Synthesis Mastery" which changes all of these macros which use "Basic Synthesis" by +20% for the progress multiplier.  That means the level 26 macro changes to "3.0x -> 3.6x" and "4.5x -> 5.4x".
 
+As you close in on level 50, I recommend starting to meld with +Command where possible to increase the chance of getting 100% HQ even with less than perfect gear.
+
 - [Level 26](#level-26)
   - [L26/D55 CP256 4.5x](#l26d55-cp256-45x)
+  - [L26/D15 CP135 1.5x](#l26d15-cp135-15x)
 
 ## L26/D55 CP256 4.5x
 
@@ -28,6 +31,20 @@ There's room here to add one more "Basic Synthesis" to the end to use 65 durabil
 /ac Veneration <wait.2>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/echo Macro Complete <se.1>
+```
+
+## L26/D15 CP135 1.5x
+
+For recipes where a 1.5x multiplier is enough, you probably have good enough gear to only need a single cycle of basic/standard touch.  That allows you to use a shorter macro for trivial items.
+
+```
+/ac Innovation <wait.2>
+/ac "Waste Not" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac Veneration <wait.2>
 /ac "Basic Synthesis" <wait.3>
 /echo Macro Complete <se.1>
 ```
