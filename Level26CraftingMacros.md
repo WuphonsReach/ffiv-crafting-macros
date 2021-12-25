@@ -4,9 +4,9 @@ At level 26, you gain "Innovation" which is a big boost (+50%) to the amount of 
 
 From here until level 50, the "L26/D55 CP256 4.5x" is going to be your primary macro.  I don't recommend trying to make any recipes that require above three uses of "Basic Synthesis".
 
-Starting around level 30, you may start having trouble hitting 100% completion or 100% HQ on recipes.  It's important to check your gear as well as melds to make sure you have enough Craftsmanship/Control.
-
 At 31, you gain "Basic Synthesis Mastery" which changes all of these macros which use "Basic Synthesis" by +20% for the progress multiplier.  That means the level 26 macro changes to "3.0x -> 3.6x" and "4.5x -> 5.4x".
+
+Starting around level 30, you may start having trouble hitting 100% completion or 100% HQ on recipes.  It's important to check your gear as well as melds to make sure you have enough Craftsmanship/Control.
 
 As you close in on level 50, you will need to meld with +Command to get 100% HQ results.  Alternately, you could add another "Basic Touch" if you have the extra 18 CP.  Or look into [using +Control foods/consumables](https://ffxiv.gamerescape.com/wiki/Category:Control_Consumable).
 
