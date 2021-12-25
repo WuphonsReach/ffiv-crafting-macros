@@ -8,7 +8,7 @@ Starting around level 30, you may start having trouble hitting 100% completion o
 
 At 31, you gain "Basic Synthesis Mastery" which changes all of these macros which use "Basic Synthesis" by +20% for the progress multiplier.  That means the level 26 macro changes to "3.0x -> 3.6x" and "4.5x -> 5.4x".
 
-As you close in on level 50, I recommend starting to meld with +Command where possible to increase the chance of getting 100% HQ even with less than perfect gear.
+As you close in on level 50, you will need to meld with +Command to get 100% HQ results.  Alternately, you could add another "Basic Touch" if you have the extra 18 CP.  Or look into [using +Control foods/consumables](https://ffxiv.gamerescape.com/wiki/Category:Control_Consumable).
 
 - [Level 26](#level-26)
   - [L26/D55 CP256 4.5x](#l26d55-cp256-45x)
