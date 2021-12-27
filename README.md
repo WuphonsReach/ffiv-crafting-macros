@@ -35,7 +35,7 @@ All of the macros are named as follows:
 
 In order to calculate which macro to use, it's important to compare the recipe difficulty against your 100% progress increase value.  Divide the difficulty value by the "progress increases by" value and that's the multiplier that you need.  Note that if you are barely reaching the progress multiplier (like "3.0x") then you should plan on using the next higher progress multiplier macro (e.g "4.5x").
 
-![This is an image](imgs/DifficultyProgress1Highlight.png)
+![Difficulty vs Progress](imgs/DifficultyProgress1Highlight.png)
 
 ## Level 81-ish
 
