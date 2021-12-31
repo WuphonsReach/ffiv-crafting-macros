@@ -12,6 +12,7 @@ As you close in on level 50, you will need to meld with +Command to get 100% HQ 
 
 - [Level 26](#level-26)
   - [L26/D55 CP256 4.5x](#l26d55-cp256-45x)
+  - [L26/D65 CP274 4.5x](#l26d65-cp274-45x)
   - [L26/D15 CP135 1.5x](#l26d15-cp135-15x)
 
 ## L26/D55 CP256 4.5x
@@ -27,6 +28,28 @@ There's room here to add one more "Basic Synthesis" to the end to use 65 durabil
 /ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac Veneration <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/echo Macro Complete <se.1>
+```
+
+## L26/D65 CP274 4.5x
+
+Requires more durability + CP than the first recipe, but can be useful in the mid-late 40s.
+
+```
+/ac Innovation <wait.2>
+/ac "Waste Not" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
 /ac "Waste Not" <wait.2>
 /ac Veneration <wait.2>
 /ac "Basic Synthesis" <wait.3>
