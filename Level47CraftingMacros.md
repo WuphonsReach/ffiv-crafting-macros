@@ -3,9 +3,9 @@
 At level 47, you gain "Waste Not II".  Even at this level, you can continue to use the [Level 26 macros](Level26CraftingMacros.md) until you obtain "Byregot's Blessing" at level 50.
 
 - [Level 47](#level-47)
-  - [L47/D30 CPxxx 3.6x](#l47d30-cpxxx-36x)
+  - [L47/D30 CP206 3.6x](#l47d30-cp206-36x)
 
-## L47/D30 CPxxx 3.6x
+## L47/D30 CP206 3.6x
 
 For recipes where a 3.6x multiplier is enough and you are at least 10-15 levels above the recipe, you probably have good enough gear to only need a double cycle of basic/standard touch.  
 
