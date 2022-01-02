@@ -7,7 +7,6 @@ Crafting macros that have been updated for the Endwalker expansion.
   - [Macros by Minimum Level](#macros-by-minimum-level)
   - [Naming Style](#naming-style)
   - [Calculating Progress Multiplier](#calculating-progress-multiplier)
-  - [Level 81-ish](#level-81-ish)
 
 ## Macros by Minimum Level
 
@@ -37,22 +36,3 @@ All of the macros are named as follows:
 In order to calculate which macro to use, it's important to compare the recipe difficulty against your 100% progress increase value.  Divide the difficulty value by the "progress increases by" value and that's the multiplier that you need.  Note that if you are barely reaching the progress multiplier (like "3.0x") then you should plan on using the next higher progress multiplier macro (e.g "4.5x").
 
 ![Difficulty vs Progress](imgs/DifficultyProgress1Highlight.png)
-
-## Level 81-ish
-
-Norah gave me this one for use on the level 81 leves / collections.
-
-```
-/ac Reflect <wait.3>
-/ac Innovation <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac Innovation <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac Groundwork <wait.3>
-```
