@@ -3,11 +3,13 @@
 At level 72, you gain "Groundwork", you will also need "Prepatory Touch" and "Manipulation" (level 65 quest).
 
 - [Level 72](#level-72)
-  - [L72/D75 CP506 16.1x](#l72d75-cp506-161x)
+  - [L72/D75 CP506 14.5x](#l72d75-cp506-145x)
 
-## L72/D75 CP506 16.1x
+## L72/D75 CP506 14.5x
 
 This recipe is aimed at the level 81-90 Endwalker recipes.  It assumes that you have decent gear with at least 506 CP and about ~2500 Craftsmanship and ~2500 Control.  Take note of the CP requirement for Groundwork, but you can usually finish out a recipe with "Careful Synthesis" (7 CP) or "Basic Synthesis" if you forget. 
+
+Note: At level 86, the multiplier on this goes up to 17.1x due to the "Groundwork Mastery" trait.
 
 ```
 /ac Reflect <wait.3>
