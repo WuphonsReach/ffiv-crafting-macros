@@ -5,6 +5,7 @@ Crafting macros that have been updated for the Endwalker expansion.
 
 - [Final Fantasy 14 Crafting Macros](#final-fantasy-14-crafting-macros)
   - [Macros by Minimum Level](#macros-by-minimum-level)
+  - [Macros for Endwalker](#macros-for-endwalker)
   - [Naming Style](#naming-style)
   - [Calculating Progress Multiplier](#calculating-progress-multiplier)
 
@@ -16,10 +17,19 @@ These macros are broken down into tiers based on the minimum crafting level for 
 - [Level 18](Level18CraftingMacros.md)
 - [Level 26](Level26CraftingMacros.md)
 - [Level 47](Level47CraftingMacros.md)
+- [Level 72](Level72CraftingMacros.md)
 - [Level 76](Level76CraftingMacros.md)
 - [Level 86](Level86CraftingMacros.md)
 
 These macros have been tested out while leveling, using gear of the appropriate level for the crafts.
+
+## Macros for Endwalker
+
+These macros will work Endwalker recipes:
+
+- [L72/D40 CP467 7.5x](Level72CraftingMacros.md)
+- [L76/D75 CP506 14.5x](Level76CraftingMacros.md)
+- [L86/D75 CP506 21.1x](Level86CraftingMacros.md)
 
 ## Naming Style
 
