@@ -3,9 +3,9 @@
 At level 72, you gain "Groundwork", you will also need "Manipulation" (level 65 quest).
 
 - [Level 72](#level-72)
-  - [L72/D40 CP467 7.5x](#l72d40-cp467-75x)
+  - [L72/D30 CP467 7.5x](#l72d30-cp467-75x)
 
-## L72/D40 CP467 7.5x
+## L72/D30 CP467 7.5x
 
 This recipe can be used for the level 81-90 Endwalker recipes.  You will probably need about ~2500 Craftsmanship and ~2500 Control. At level 86, with "Groundwork Mastery", the progress multiplier goes up to 8.4x.
 
