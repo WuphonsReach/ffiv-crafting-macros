@@ -33,7 +33,7 @@ Early on, when you only have ~2500 Craftsmanship and ~2500 Control, you can use 
 - [L72/D30 CP467 7.5x](Level72CraftingMacros.md)
 - [L76/D75 CP506 14.5x](Level76CraftingMacros.md)
 
-For the level 90 recipes (prior to using level 90 gear) you'll need a higher progress multiplier.  This comes at the cost of a lower chance of HQ output which can be compensated for by using some/all HQ inputs to the recipe.
+For the level 90 recipes (prior to using level 90 gear) you'll need a higher progress multiplier.  This comes at the cost of a lower chance of HQ output which can be compensated for by using some/all HQ inputs to the recipe.  Or buffing your control stat with food/etc.
 
 - [L86/D75 CP506 21.1x](Level86CraftingMacros.md)
 

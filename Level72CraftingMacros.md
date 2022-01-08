@@ -7,7 +7,7 @@ At level 72, you gain "Groundwork", you will also need "Manipulation" (level 65 
 
 ## L72/D30 CP467 7.5x
 
-This recipe can be used for the level 81-90 Endwalker recipes.  You will probably need about ~2500 Craftsmanship and ~2500 Control. At level 86, with "Groundwork Mastery", the progress multiplier goes up to 8.4x.
+This recipe can be used for the level 81-90 Endwalker recipes.  You will probably need about ~2500 Craftsmanship and ~2500 Control. At level 86, with "Groundwork Mastery", the progress multiplier goes up to 8.4x.  Note that when making the level 88 recipes, the base HQ chance is only about 92-96% with ~2500 Control.  You'll need to bump up your +Control if you absolutely need 100% HQ from raw materials, or add one more quality step somewhere.
 
 ```
 /ac Reflect <wait.3>
