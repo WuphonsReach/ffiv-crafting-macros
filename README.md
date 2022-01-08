@@ -17,6 +17,7 @@ These macros are broken down into tiers based on the minimum crafting level for 
 - [Level 18](Level18CraftingMacros.md)
 - [Level 26](Level26CraftingMacros.md)
 - [Level 47](Level47CraftingMacros.md)
+- [Level 50](Level50CraftingMacros.md)
 - [Level 72](Level72CraftingMacros.md)
 - [Level 76](Level76CraftingMacros.md)
 - [Level 86](Level86CraftingMacros.md)
