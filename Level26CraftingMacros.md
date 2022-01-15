@@ -13,7 +13,7 @@ As you close in on level 50, you will need to meld with +Command to get 100% HQ 
 - [Level 26](#level-26)
   - [L26/D55 CP256 4.5x](#l26d55-cp256-45x)
   - [L26/D65 CP274 4.5x](#l26d65-cp274-45x)
-  - [L26/D15 CP135 1.5x](#l26d15-cp135-15x)
+  - [L26/D25 CP146 1.5x](#l26d25-cp146-15x)
 
 ## L26/D55 CP256 4.5x
 
@@ -58,15 +58,16 @@ Requires more durability + CP than the first recipe, but can be useful in the mi
 /echo Macro Complete <se.1>
 ```
 
-## L26/D15 CP135 1.5x
+## L26/D25 CP146 1.5x
 
-For recipes where a 1.5x multiplier is enough, you probably have good enough gear to only need a single cycle of basic/standard touch.  That allows you to use a shorter macro for trivial items.
+For recipes where a 1.5x multiplier is enough, you probably have good enough gear to only need a small number of basic/standard touch steps.  A shorter macro for trivial items saves time.
 
 ```
 /ac Innovation <wait.2>
 /ac "Waste Not" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
 /ac Veneration <wait.2>
 /ac "Basic Synthesis" <wait.3>
 /echo Macro Complete <se.1>
