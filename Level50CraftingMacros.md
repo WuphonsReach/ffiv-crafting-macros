@@ -4,6 +4,7 @@ At level 50, you gain "Byregot's Blessing".  However, you will need at least 294
 
 - [Level 50](#level-50)
   - [L50/D35 CP294 3.5x](#l50d35-cp294-35x)
+  - [L50/D55 CP312 5.3x](#l50d55-cp312-53x)
 
 ## L50/D35 CP294 3.5x
 
@@ -26,4 +27,26 @@ You will need about 300 Craftsmanship and 300 Control to start in on the Heavens
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /echo Macro Complete <se.1>
+```
+
+## L50/D55 CP312 5.3x
+
+A full 15-step recipe that can be used once you meet the CP requirement.  It should work okay for level 52-56 recipes if you keep up with your +Control/+Craftsmanship melding and gear.  If your Craftsmanship skill is a little low, you may need to finish out with one more "Basic Synthesis".
+
+```
+/ac Innovation <wait.2>
+/ac "Waste Not" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac Innovation <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Waste Not" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac Veneration <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
 ```
