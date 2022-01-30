@@ -11,6 +11,8 @@ A macro for use from level 86-89 when trying to make level 90 recipes.  This wor
 
 Note: If you are level 89 and trying to make a level 90 recipe using level 80 Aethete's gear with only ~2500 Control then you will need to use all (or nearly) HQ inputs to get a guaranteed HQ result.  To get 100% HQ from all NQ inputs would require ~4100 Control with this macro.
 
+Even some level 87-88 crafts will only have a 90-95% HQ rate with ~2500 Control.  
+
 
 ```
 /ac "Muscle Memory" <wait.3>
