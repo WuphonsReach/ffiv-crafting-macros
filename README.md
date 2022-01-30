@@ -28,7 +28,7 @@ These macros have been tested out while leveling, using gear of the appropriate 
 
 These macros will work for Endwalker recipes. 
 
-Early on, when you only have ~2500 Craftsmanship and ~2500 Control, you can use these macros to make all recipes up until level 89.  Up until level 86-87, you will also have a 90% or better chance at HQ output from NQ inputs.
+Early on, when you only have ~2500 Craftsmanship and ~2500 Control, you can use these macros to make all recipes up until level 87.  Up until level 86-87, you will also have a 90% or better chance at HQ output from NQ inputs.
 
 - [L72/D30 CP467 7.5x](Level72CraftingMacros.md)
 - [L76/D75 CP506 14.5x](Level76CraftingMacros.md)
@@ -36,6 +36,7 @@ Early on, when you only have ~2500 Craftsmanship and ~2500 Control, you can use 
 For the level 90 recipes (prior to using level 90 gear) you'll need a higher progress multiplier.  This comes at the cost of a lower chance of HQ output which can be compensated for by using some/all HQ inputs to the recipe.  Or buffing your control stat with food/etc.
 
 - [L86/D75 CP506 21.1x](Level86CraftingMacros.md)
+- [L76/D75 CP524 16.1x](Level76CraftingMacros.md)
 
 ## Naming Style
 
