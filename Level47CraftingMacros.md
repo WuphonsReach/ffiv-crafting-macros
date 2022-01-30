@@ -23,3 +23,5 @@ For recipes where a 1.8x multiplier is enough (you are 20+ levels above the reci
 /ac "Basic Synthesis" <wait.3>
 /echo Macro Complete <se.1>
 ```
+
+Note that to start on Heavensward (level 51-53) recipes, you will want about 300 CP, 300 Craftsmanship and 300 Control on your gear.  The recipe difficulty jumps from ~83 (level 47) to ~110 (level 51).
