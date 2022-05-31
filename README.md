@@ -18,6 +18,8 @@ These macros are broken down into tiers based on the minimum crafting level for 
 - [Level 26](Level26CraftingMacros.md)
 - [Level 47](Level47CraftingMacros.md)
 - [Level 50](Level50CraftingMacros.md)
+- [Level 54](Level54CraftingMacros.md)
+- [Level 62](Level62CraftingMacros.md)
 - [Level 72](Level72CraftingMacros.md)
 - [Level 76](Level76CraftingMacros.md)
 - [Level 86](Level86CraftingMacros.md)
@@ -47,7 +49,7 @@ All of the macros are named as follows:
 - `L7`: The macro uses no skill higher than level 7.  Whether or not it is usable at that level depends on whether your gear has enough CP on it.
 - `D50`: The most that durability will be reduced by during the macro.  A macro that only uses 40 durability can be used on all recipes where the item has at least 40 durability.
 - `CP160`: The number of CP required to use this macro.  You must have at least this amount of CP to succeed.  
-- `2.0x`: How much progress the macro makes.  This is very important, because if you fail to increase the progress bar to 100% then it is a failed synthesis.  It does not hurt to overshoot on progress.
+- `2.0x`: How much progress the macro makes.  This is very important, because if you fail to increase the progress bar to 100% then it is a failed synthesis.  It does not hurt to overshoot on progress, except for macros that use [Muscle Memory](https://ffxiv.consolegameswiki.com/wiki/Muscle_Memory).
 
 ## Calculating Progress Multiplier
 
