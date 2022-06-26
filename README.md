@@ -33,6 +33,8 @@ These macros will work for Endwalker recipes.
 Early on, when you only have ~2500 Craftsmanship and ~2500 Control, you can use these macros to make all recipes up until level 87.  Up until level 86-87, you will also have a 90% or better chance at HQ output from NQ inputs.
 
 - [L72/D30 CP467 7.5x](Level72CraftingMacros.md)
+- [L72/D80 CP434 11.6x](Level72CraftingMacros.md)
+- [L72/D80 CP455 14.3MM](Level72CraftingMacros.md)
 - [L76/D75 CP506 14.5x](Level76CraftingMacros.md)
 
 For the level 90 recipes (prior to using level 90 gear) you'll need a higher progress multiplier.  This comes at the cost of a lower chance of HQ output which can be compensated for by using some/all HQ inputs to the recipe.  Or buffing your control stat with food/etc.
@@ -50,6 +52,13 @@ All of the macros are named as follows:
 - `D50`: The most that durability will be reduced by during the macro.  A macro that only uses 40 durability can be used on all recipes where the item has at least 40 durability.
 - `CP160`: The number of CP required to use this macro.  You must have at least this amount of CP to succeed.  
 - `2.0x`: How much progress the macro makes.  This is very important, because if you fail to increase the progress bar to 100% then it is a failed synthesis.  It does not hurt to overshoot on progress, except for macros that use [Muscle Memory](https://ffxiv.consolegameswiki.com/wiki/Muscle_Memory).
+
+`L72/D80 CP455 14.3MM`
+
+- `L72`: Requires skills of level 72 or lower.
+- `D80`: The recipe must have 80 durability.
+- `CP455`: You must have at least 455 CP to use this macro.
+- ` 14.3MM`: How much progress the macro makes (14.3x your 100% progress value). The "MM" suffix indicates that you need to use caution because this macro uses [Muscle Memory](https://ffxiv.consolegameswiki.com/wiki/Muscle_Memory) without any guardrails like [Final Appraisal](https://ffxiv.consolegameswiki.com/wiki/Final_Appraisal) to prevent early completion.
 
 ## Calculating Progress Multiplier
 
