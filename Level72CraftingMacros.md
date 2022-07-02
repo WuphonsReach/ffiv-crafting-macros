@@ -4,6 +4,7 @@ At level 72, you gain "Groundwork", you will also need "Manipulation" (level 65 
 
 - [Level 72](#level-72)
   - [L72/D30 CP467 7.5x](#l72d30-cp467-75x)
+  - [L72/D80 CP408 13.5x](#l72d80-cp408-135x)
   - [L72/D80 CP434 11.6x](#l72d80-cp434-116x)
   - [L72/D80 CP455 14.3MM](#l72d80-cp455-143mm)
 
@@ -32,6 +33,28 @@ If you can get to 506 CP, consider moving up to one of the [Level 76 macros](Lev
 ```
 
 This one was courtesy of Roshan Farzin (Balmung).
+
+## L72/D80 CP408 13.5x
+
+This is a good macro to use if you did not do the quest to unlock [Manipulation](https://ffxiv.consolegameswiki.com/wiki/Manipulation) yet.  Maybe you don't have access to Kugane yet or haven't finished Heavensward.  It uses [Final Appraisal](https://ffxiv.consolegameswiki.com/wiki/Final_Appraisal) which makes it safe even when [Muscle Memory](https://ffxiv.consolegameswiki.com/wiki/Muscle_Memory) is used.  That's why the suffix is "x" instead of "MM".
+
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Final Appraisal" <wait.2>
+/ac Groundwork <wait.3>
+/ac "Waste Not II" <wait.2>
+/ac Innovation <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac Innovation <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac Veneration <wait.2>
+/ac "Careful Synthesis" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
 
 ## L72/D80 CP434 11.6x
 
