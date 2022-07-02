@@ -8,6 +8,16 @@ At level 72, you gain "Groundwork", you will also need "Manipulation" (level 65 
   - [L72/D80 CP434 11.6x](#l72d80-cp434-116x)
   - [L72/D80 CP455 14.3MM](#l72d80-cp455-143mm)
 
+
+Estimated Quality Multiplier (EQM) is a relative measure of how effective the macro is at increasing quality.  These particular values were sourced from Teamcraft using a level 86 character.
+
+|----|----------------------|-------|
+|Lvl | Name                 |  EQM  |
+| 72 | L72/D30 CP467 7.5x   | 26.3x |
+| 72 | L72/D80 CP408 13.5x  | 19.3x |
+| 72 | L72/D80 CP434 11.6x  | 23.3x |
+| 72 | L72/D80 CP455 14.3MM | 23.9x |
+
 ## L72/D30 CP467 7.5x
 
 This recipe can be used for the level 81-87 Endwalker recipes.  You will probably need about ~2500 Craftsmanship and ~2500 Control. At level 86, with "Groundwork Mastery", the progress multiplier goes up to 8.4x.  Note that when making the level 88 recipes, the base HQ chance is only about 92-96% with ~2500 Control.  You'll need to bump up your +Control if you absolutely need 100% HQ from raw materials, or add one more quality step somewhere.
