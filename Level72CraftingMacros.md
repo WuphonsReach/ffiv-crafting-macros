@@ -11,8 +11,8 @@ At level 72, you gain "Groundwork", you will also need "Manipulation" (level 65 
 
 Estimated Quality Multiplier (EQM) is a relative measure of how effective the macro is at increasing quality.  These particular values were sourced from Teamcraft using a level 86 character.
 
-|----|----------------------|-------|
 |Lvl | Name                 |  EQM  |
+|----|----------------------|-------|
 | 72 | L72/D30 CP467 7.5x   | 26.3x |
 | 72 | L72/D80 CP408 13.5x  | 19.3x |
 | 72 | L72/D80 CP434 11.6x  | 23.3x |
