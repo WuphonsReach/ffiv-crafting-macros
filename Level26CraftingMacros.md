@@ -38,7 +38,7 @@ There's room here to add one more "Basic Synthesis" to the end to use 65 durabil
 
 ## L26/D65 CP274 4.5x
 
-Requires more durability + CP than the first recipe, but can be useful in the mid-late 40s.
+Requires more durability + CP than the first recipe, but can be useful in the mid-late 40s.  This is usually my go-to macro for levels 30-50 recipes.
 
 ```
 /ac Innovation <wait.2>

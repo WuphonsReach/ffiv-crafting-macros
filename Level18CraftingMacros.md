@@ -2,8 +2,6 @@
 
 At level 18, you gain "Standard Touch", plus you picked up "Waste Not" and "Veneration" at level 15.  This gives a boost in being able to get a HQ result from your macros without needing all input materials as HQ.  With the changes in Endwalker, you will likely find it a lot easier to get HQ results without using any HQ materials.
 
-Note that "L18/D60 CP182 3.0x" and "L18/D70 CP182 4.5x" are likely to be your macros in this tier for crafting finished products.  As with [the level 7 macros](Level7CraftingMacros.md), I have not found much use for durability 40 macros.
-
 Make sure that you are improving your primary/secondary weapons as you go through the levels.  They have a large impact on your ability to get to 100% progress/quality.  Melding and HQ equipment is optional.
 
 - [Level 18](#level-18)
