@@ -4,6 +4,15 @@ At level 86, you gain "Groundwork Mastery".
 
 - [Level 86](#level-86)
   - [L86/D75 CP506 21.1x](#l86d75-cp506-211x)
+  - [L86/D80 CP450 15.6x](#l86d80-cp450-156x)
+
+
+Estimated Quality Multiplier (EQM) is a relative measure of how effective the macro is at increasing quality.  These particular values were sourced from Teamcraft using a level 86 character.
+
+|Lvl | Name                 |  EQM  | Manipulation |
+|----|----------------------|-------|--------------|
+| 86 | L86/D75 CP506 21.1x  | ??.?x |      Yes     |
+| 86 | L86/D80 CP450 15.6x  | ??.?x |      No      |
 
 ## L86/D75 CP506 21.1x
 
@@ -30,4 +39,26 @@ Even some level 87-88 crafts will only have a 90-95% HQ rate with ~2500 Control.
 /ac Groundwork <wait.3>
 /ac Groundwork <wait.3>
 /echo Macro Complete <se.1>
+```
+
+## L86/D80 CP450 15.6x
+
+A no [Manipulation](https://ffxiv.consolegameswiki.com/wiki/Manipulation) macro with [Final Appraisal](https://ffxiv.consolegameswiki.com/wiki/Final_Appraisal) for safe use of [Muscle Memory](https://ffxiv.consolegameswiki.com/wiki/Muscle_Memory).
+
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Final Appraisal" <wait.2>
+/ac "Waste Not II" <wait.2>
+/ac Groundwork <wait.3>
+/ac Innovation <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac Innovation <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac Veneration <wait.2>
+/ac Groundwork <wait.3>
 ```
