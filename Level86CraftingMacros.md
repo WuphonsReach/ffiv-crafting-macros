@@ -5,6 +5,7 @@ At level 86, you gain "Groundwork Mastery".
 - [Level 86](#level-86)
   - [L86/D75 CP506 21.1x](#l86d75-cp506-211x)
   - [L86/D80 CP450 15.6x](#l86d80-cp450-156x)
+  - [L86/D80 CP491 18.3MM](#l86d80-cp491-183mm)
 
 
 Estimated Quality Multiplier (EQM) is a relative measure of how effective the macro is at increasing quality.  These particular values were sourced from Teamcraft using a level 86 character.
@@ -12,7 +13,8 @@ Estimated Quality Multiplier (EQM) is a relative measure of how effective the ma
 |Lvl | Name                 |  EQM  | Manipulation |
 |----|----------------------|-------|--------------|
 | 86 | L86/D75 CP506 21.1x  | ??.?x |      Yes     |
-| 86 | L86/D80 CP450 15.6x  | ??.?x |      No      |
+| 86 | L86/D80 CP450 15.6x  | 26.2x |      No      |
+| 86 | L86/D80 CP491 18.3MM | 26.2x |      No      |
 
 ## L86/D75 CP506 21.1x
 
@@ -61,4 +63,26 @@ A no [Manipulation](https://ffxiv.consolegameswiki.com/wiki/Manipulation) macro 
 /ac "Byregot's Blessing" <wait.3>
 /ac Veneration <wait.2>
 /ac Groundwork <wait.3>
+```
+
+## L86/D80 CP491 18.3MM
+
+A no [Manipulation](https://ffxiv.consolegameswiki.com/wiki/Manipulation) macro with [Muscle Memory](https://ffxiv.consolegameswiki.com/wiki/Muscle_Memory). Be careful when using this macro on stuff below a progress multiplier of 15.6.
+
+```
+/ac "Muscle Memory" <wait.3>
+/ac "Waste Not II" <wait.2>
+/ac Groundwork <wait.3>
+/ac Innovation <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Master's Mend" <wait.3>
+/ac Innovation <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac Veneration <wait.2>
+/ac Groundwork <wait.3>
+/ac "Careful Synthesis" <wait.3>
 ```
