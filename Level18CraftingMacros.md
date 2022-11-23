@@ -18,7 +18,6 @@ Make sure that you are improving your primary/secondary weapons as you go throug
 /ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
 /ac "Veneration" <wait.2>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
