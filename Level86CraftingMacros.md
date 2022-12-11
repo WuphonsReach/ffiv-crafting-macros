@@ -7,15 +7,6 @@ At level 86, you gain "Groundwork Mastery".
   - [L86/D80 CP450 15.6x](#l86d80-cp450-156x)
   - [L86/D80 CP491 18.3MM](#l86d80-cp491-183mm)
 
-
-Estimated Quality Multiplier (EQM) is a relative measure of how effective the macro is at increasing quality.  These particular values were sourced from Teamcraft using a level 86 character.
-
-|Lvl | Name                 |  EQM  | Manipulation |
-|----|----------------------|-------|--------------|
-| 86 | L86/D75 CP506 21.1x  | ??.?x |      Yes     |
-| 86 | L86/D80 CP450 15.6x  | 26.2x |      No      |
-| 86 | L86/D80 CP491 18.3MM | 26.2x |      No      |
-
 ## L86/D75 CP506 21.1x
 
 A macro for use from level 86-89 when trying to make level 90 recipes.  This works as long as you have at least 2400 Craftsmanship.  For the level 86-89 recipes you can keep using the [L76/D75 CP506 14.5x macro](Level76CraftingMacros.md).

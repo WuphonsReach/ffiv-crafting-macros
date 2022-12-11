@@ -6,13 +6,6 @@ At level 72, you gain "Groundwork", you will also need "Preparatory Touch" and "
   - [L76/D75 CP506 14.5x](#l76d75-cp506-145x)
   - [L76/D75 CP524 16.1x](#l76d75-cp524-161x)
 
-Estimated Quality Multiplier (EQM) is a relative measure of how effective the macro is at increasing quality.  These particular values were sourced from Teamcraft using a level 86 character.
-
-|Lvl | Name                 |  EQM  | Manipulation |
-|----|----------------------|-------|--------------|
-| 76 | L76/D75 CP506 14.5x  | 29.0x |      Yes     |
-| 76 | L76/D75 CP524 16.1x  | 32.1x |      Yes     |
-
 ## L76/D75 CP506 14.5x
 
 This recipe is aimed at the level 81-87 Endwalker recipes.  It assumes that you have decent gear with at least 506 CP and about ~2500 Craftsmanship and ~2500 Control. 
