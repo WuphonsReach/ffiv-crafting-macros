@@ -5,7 +5,7 @@ Crafting macros that have been updated for the Endwalker expansion.
 - [Final Fantasy 14 Crafting Macros](#final-fantasy-14-crafting-macros)
   - [Macros by Minimum Level](#macros-by-minimum-level)
   - [Macros for Endwalker](#macros-for-endwalker)
-  - [Scoring](#scoring)
+  - [Comparison Table](#comparison-table)
   - [Naming Style](#naming-style)
   - [Calculating Progress Multiplier](#calculating-progress-multiplier)
 
@@ -43,23 +43,27 @@ For the level 90 recipes (prior to using level 90 gear) you'll need a higher pro
 - [L86/D75 CP506 21.1x](Level86CraftingMacros.md)
 - [L76/D75 CP524 16.1x](Level76CraftingMacros.md)
 
-## Scoring
+## Comparison Table
 
-| Lvl | Name                                             | Durability | Steps | EQM   | Muscle Memory | Manipulation |
-| --- | ------------------------------------------------ | ---------- | ----- | ----- | ------------- | ------------ |
-| 72  | [L72/D30 CP467 7.5x](Level72CraftingMacros.md)   | 30         | 14    | 26.3x | No            | Yes          |
-| 72  | [L72/D80 CP410 13.5x](Level72CraftingMacros.md)  | 80         | 15    | 19.3x | No            | No           |
-| 72  | [L72/D80 CP434 11.6x](Level72CraftingMacros.md)  | 80         | 15    | 23.3x | No            | No           |
-| 72  | [L72/D80 CP455 14.3MM](Level72CraftingMacros.md) | 80         | 15    | 23.9x | Yes           | No           |
-| 76  | [L76/D75 CP506 14.5x](Level76CraftingMacros.md)  | 75         | 14    | 29.0x | No            | Yes          |
-| 76  | [L76/D75 CP524 16.1x](Level76CraftingMacros.md)  | 75         | 15    | 32.1x | No            | Yes          |
-| 86  | [L86/D75 CP506 21.1x](Level86CraftingMacros.md)  | 75         | 14    | ??.?x | No            | Yes          |
-| 86  | [L86/D80 CP450 15.6x](Level86CraftingMacros.md)  | 80         | 14    | 26.2x | No            | No           |
-| 86  | [L86/D80 CP491 18.3MM](Level86CraftingMacros.md) | 80         | 15    | 26.2x | Yes           | No           |
+| Lvl | Name                                             | Dura. | Steps | EQM   | Muscle Memory | Manipulation |
+| --- | ------------------------------------------------ | ----- | ----- | ----- | ------------- | ------------ |
+| 7   | [L7/D50 CP160 2.0x](Level7CraftingMacros.md)     | 50    | 8     | ??.?x | No            | No           |
+| 7   | [L7/D50 CP178 3.0x](Level7CraftingMacros.md)     | 50    | 9     | ??.?x | No            | No           |
+| 18  | [L18/D60 CP182 3.0x](Level18CraftingMacros.md)   | 60    | 10    | ??.?x | No            | No           |
+| 18  | [L18/D70 CP182 4.5x](Level18CraftingMacros.md)   | 70    | 10    | ??.?x | No            | No           |
+| 72  | [L72/D30 CP467 7.5x](Level72CraftingMacros.md)   | 30    | 14    | 26.3x | No            | Yes          |
+| 72  | [L72/D80 CP410 13.5x](Level72CraftingMacros.md)  | 80    | 15    | 19.3x | No            | No           |
+| 72  | [L72/D80 CP434 11.6x](Level72CraftingMacros.md)  | 80    | 15    | 23.3x | No            | No           |
+| 72  | [L72/D80 CP455 14.3MM](Level72CraftingMacros.md) | 80    | 15    | 23.9x | Yes           | No           |
+| 76  | [L76/D75 CP506 14.5x](Level76CraftingMacros.md)  | 75    | 14    | 29.0x | No            | Yes          |
+| 76  | [L76/D75 CP524 16.1x](Level76CraftingMacros.md)  | 75    | 15    | 32.1x | No            | Yes          |
+| 86  | [L86/D75 CP506 21.1x](Level86CraftingMacros.md)  | 75    | 14    | ??.?x | No            | Yes          |
+| 86  | [L86/D80 CP450 15.6x](Level86CraftingMacros.md)  | 80    | 14    | 26.2x | No            | No           |
+| 86  | [L86/D80 CP491 18.3MM](Level86CraftingMacros.md) | 80    | 15    | 26.2x | Yes           | No           |
 
 - Lvl: Minimum crafting level before you can use the macro.
 - Name: See the [Naming Style](#naming-style) section below.
-- Durability: The maximum amount of durability consumed during execution of the macro.
+- Dura.: The maximum amount of durability consumed during execution of the macro.
 - Steps: The number of productive steps in the macro.  Not including any alert sound step.  Fewer steps means the macro will complete faster.
 - EQM: Estimated Quality Multiplier (EQM) is a relative measure of how effective the macro is at increasing quality. Higher values let you use more normal quality inputs.
 - Muscle Memory (Yes): Macros which use [Muscle Memory](https://ffxiv.consolegameswiki.com/wiki/Muscle_Memory) **without** also using [Final Appraisal](https://ffxiv.consolegameswiki.com/wiki/Final_Appraisal) are risky if used on too low of a recipe.  They run the risk of early completion before the quality has been raised.
