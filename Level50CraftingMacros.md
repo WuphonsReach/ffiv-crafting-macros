@@ -4,11 +4,12 @@ At level 50, you gain "Byregot's Blessing".  However, you will need at least 294
 
 - [Level 50](#level-50)
   - [L50/D35 CP294 3.5x](#l50d35-cp294-35x)
+  - [L50/D40 CP294 5.3x](#l50d40-cp294-53x)
   - [L50/D55 CP312 5.3x](#l50d55-cp312-53x)
 
 ## L50/D35 CP294 3.5x
 
-This recipe is used to make HQ intermediates for 40 durability recipes.
+This macro is used to make HQ intermediates for 40 durability recipes.
 
 ```
 /ac Innovation <wait.2>
@@ -25,6 +26,27 @@ This recipe is used to make HQ intermediates for 40 durability recipes.
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /echo Macro Complete <se.1>
+```
+
+## L50/D40 CP294 5.3x
+
+This macro is used to make HQ intermediates for 40 durability recipes.  It's an extension of the [L50/D35 CP294 3.5x](#l50d35-cp294-35x) macro, with one more "Basic Synthesis" step.  It's difficult to get 100% HQ (or even 60% HQ) rates from normal quality ingredients if you need to use this.  But sometimes you'll get a lucky crit on the quality steps.
+
+```
+/ac Innovation <wait.2>
+/ac "Waste Not" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac Innovation <wait.2>
+/ac "Great Strides" <wait.2>
+/ac "Waste Not" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac Veneration <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
 ```
 
 ## L50/D55 CP312 5.3x
