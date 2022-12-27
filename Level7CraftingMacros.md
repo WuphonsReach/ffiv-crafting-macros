@@ -29,7 +29,7 @@ If you really need a durability 30 or 40 macro at this level, just take one of t
 
 ## L7/D50 CP178 3.0x
 
-If the recipe is at least 60 durability, adding a 4th "Basic Synthesis" on the end to get a 4.0x macro may be useful.
+If the recipe is at least 60 durability, adding a 4th "Basic Synthesis" on the end to get a 4.0x macro may be useful.  This will likely be your primary macro up until level 18.
 
 ```
 /ac "Basic Touch" <wait.3>
