@@ -11,6 +11,7 @@ If you really need a durability 30 or 40 macro at this level, just take one of t
 - [Level 7](#level-7)
   - [L7/D50 CP160 2.0x](#l7d50-cp160-20x)
   - [L7/D50 CP178 3.0x](#l7d50-cp178-30x)
+  - [L7/D60 CP160 5.0x](#l7d60-cp160-50x)
 
 ## L7/D50 CP160 2.0x
 
@@ -41,4 +42,23 @@ If the recipe is at least 60 durability, adding a 4th "Basic Synthesis" on the e
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /echo Macro Complete <se.1>
+```
+
+## L7/D60 CP160 5.0x
+
+This one can get you over the hump of needing a 5x multiplier when you don't yet have multiple +Craftsmanship pieces equipped.  The downside is that it has one fewer "Basic Touch" steps resulting in a lower chance of HQ results.
+
+
+```
+/ac "Basic Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Master's Mend" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/echo Macro #1 complete <se.1>
 ```
