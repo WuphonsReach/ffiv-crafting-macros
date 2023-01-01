@@ -52,6 +52,9 @@ For the level 90 recipes (prior to using level 90 gear) you'll need a higher pro
 | 7   | [L7/D60 CP160 5.0x](Level7CraftingMacros.md)     | 60   | 10    | 5.0  | ??.? | No      | No    |
 | 18  | [L18/D60 CP182 3.0x](Level18CraftingMacros.md)   | 60   | 10    | 3.0  | ??.? | No      | No    |
 | 18  | [L18/D70 CP182 4.5x](Level18CraftingMacros.md)   | 70   | 10    | 4.5  | ??.? | No      | No    |
+| 26  | [L26/D55 CP256 4.5x](Level26CraftingMacros.md)   | 55   | 13    | 4.5  | ??.? | No      | No    |
+| 26  | [L26/D65 CP274 4.5x](Level26CraftingMacros.md)   | 65   | 14    | 4.5  | ??.? | No      | No    |
+| 26  | [L26/D25 CP146 1.5x](Level26CraftingMacros.md)   | 25   | 7     | 1.5  | ??.? | No      | No    |
 | 72  | [L72/D30 CP467 7.5x](Level72CraftingMacros.md)   | 30   | 14    | 7.5  | 26.3 | No      | Yes   |
 | 72  | [L72/D80 CP410 13.5x](Level72CraftingMacros.md)  | 80   | 15    | 13.5 | 19.3 | No      | No    |
 | 72  | [L72/D80 CP434 11.6x](Level72CraftingMacros.md)  | 80   | 15    | 11.6 | 23.3 | No      | No    |
