@@ -7,6 +7,7 @@ Make sure that you are improving your primary/secondary weapons as you go throug
 - [Level 18](#level-18)
   - [L18/D60 CP182 3.0x](#l18d60-cp182-30x)
   - [L18/D70 CP182 4.5x](#l18d70-cp182-45x)
+  - [L18/D65 CP238 6.0x](#l18d65-cp238-60x)
 
 ## L18/D60 CP182 3.0x
 
@@ -37,6 +38,25 @@ This macro could have the last "Standard Touch" removed if you need a macro that
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Veneration" <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/echo Macro Complete <se.1>
+```
+
+## L18/D65 CP238 6.0x
+
+```
+/ac "Waste Not" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac Veneration <wait.2>
+/ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
