@@ -46,6 +46,8 @@ This macro could have the last "Standard Touch" removed if you need a macro that
 
 ## L18/D65 CP238 6.0x
 
+If you have to use this, it's probably because you aren't keeping up with upgrading your gear as you leveled.  But there are a few rough spots in the early levels where a 4.5x multiplier isn't enough.
+
 ```
 /ac "Waste Not" <wait.2>
 /ac "Basic Touch" <wait.3>

@@ -1,6 +1,10 @@
 # Level 62
 
-At level 62, you gain "[Careful Synthesis](https://ffxiv.consolegameswiki.com/wiki/Careful_Synthesis)".  This shaves off one synthesis step from the "L54/D75 CP286 10.7MM" macro in exchange for one more "Basic Touch". 
+At level 62, you gain "[Careful Synthesis](https://ffxiv.consolegameswiki.com/wiki/Careful_Synthesis)".  
+
+What I've found in the level 60s is that you need your Craftsmanship to be around 1000 with level 61 crafting gear.  That can be a difficult number to hit unless you meld for Craftsmanship instead of Control.  Which means that obtaining a 100% HQ rate from NQ inputs is going to be very difficult.
+
+The crafted level 63 or 65 gear will be needed before you can progress past the mid-60s recipes.
 
 - [Level 62](#level-62)
   - [L62/D55 CP333 6.7x](#l62d55-cp333-67x)
