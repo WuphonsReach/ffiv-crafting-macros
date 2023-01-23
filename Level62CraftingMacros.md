@@ -9,6 +9,7 @@ The crafted level 63 or 65 gear will be needed before you can progress past the 
 - [Level 62](#level-62)
   - [L62/D55 CP333 6.7x](#l62d55-cp333-67x)
   - [L62/D75 CP325 10.4MM](#l62d75-cp325-104mm)
+  - [L62/D35 CP382 7.1x](#l62d35-cp382-71x)
 
 ## L62/D55 CP333 6.7x
 
@@ -54,4 +55,27 @@ In order to get 95%+ on the quality meter; you will need to keep your gear up to
 /ac Veneration <wait.2>
 /ac "Careful Synthesis" <wait.3>
 /ac "Careful Synthesis" <wait.3>
+```
+
+## L62/D35 CP382 7.1x
+
+A recipe for crafting ~690 difficulty pieces for when you only have ~950 craftsmanship.  This should give about an 84% HQ rate when combined with ~950 command.
+
+
+```
+/ac "Final Appraisal" <wait.2>
+/ac "Muscle Memory" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+/ac "Waste Not II" <wait.2>
+/ac Innovation <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Master's Mend" <wait.3>
+/ac Innovation <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Basic Synthesis" <wait.3>
 ```
