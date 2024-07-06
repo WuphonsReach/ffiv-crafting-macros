@@ -8,6 +8,7 @@ Crafting macros that have been updated for the Endwalker expansion.
   - [Comparison Table](#comparison-table)
   - [Naming Style](#naming-style)
   - [Calculating Progress Multiplier](#calculating-progress-multiplier)
+  - [Character Statistics](#character-statistics)
 
 ## Macros by Minimum Level
 
@@ -56,7 +57,8 @@ For the level 90 recipes (prior to using level 90 gear) you'll need a higher pro
 | 26  | [L26/D55 CP256 4.5x](Level26CraftingMacros.md)   | 55   | 256 | 13    | 4.5  | ??.? | No      | No    |
 | 26  | [L26/D65 CP274 4.5x](Level26CraftingMacros.md)   | 65   | 274 | 14    | 4.5  | ??.? | No      | No    |
 | 26  | [L26/D25 CP146 1.5x](Level26CraftingMacros.md)   | 25   | 146 | 7     | 1.5  | ??.? | No      | No    |
-| 72  | [L72/D70 CP420 9.7x](Level72CraftingMacros.md)   | 70   | 420 | 15    | 9.7  | 22.6 | No      | No    |
+| 71  | [L71/D70 CP420 9.7x](Level71CraftingMacros.md)   | 70   | 420 | 15    | 9.7  | 22.6 | No      | No    |
+| 72  | [L72/D65 CP504 15.0x](Level72CraftingMacros.md)  | 65   | 504 | 15    | 15.0 | 27.8 | No      | Yes   |
 | 76  | [L76/D75 CP506 14.5x](Level76CraftingMacros.md)  | 75   | 506 | 14    | 14.5 | 29.0 | No      | Yes   |
 | 76  | [L76/D75 CP524 16.1x](Level76CraftingMacros.md)  | 75   | 524 | 15    | 16.1 | 32.1 | No      | Yes   |
 | 86  | [L86/D75 CP506 21.1x](Level86CraftingMacros.md)  | 75   | 506 | 14    | 21.1 | ??.? | No      | Yes   |
@@ -96,3 +98,62 @@ All of the macros are named as follows:
 In order to calculate which macro to use, it's important to compare the recipe difficulty against your 100% progress increase value.  Divide the difficulty value by the "progress increases by" value and that's the multiplier that you need.  Note that if you are barely reaching the progress multiplier (like "3.0x") then you should plan on using the next higher progress multiplier macro (e.g "4.5x").
 
 ![Difficulty vs Progress](imgs/DifficultyProgress1Highlight.png)
+
+## Character Statistics
+
+These are measured in-game values for level, craftsmanship, control, CP.  Treat them as a rough idea of what stats you might have at a particular level.  Melding and overmelding (pentamelding) can increase these values as would any temporary effect like potions/food/buffs.
+
+Any wild variance at a given level range is probably a measurement where the character was behind on gearing.
+
+| Lvl | Crafts | Cntrl | CP  | iLvl |
+| --- | ------ | ----- | --- | ---- |
+| 47  | 233    | 219   | 272 | 30   |
+| 51  | 271    | 318   | 294 | 46   |
+| 57  | 600    | 553   | 337 | 93   |
+| 61  | 612    | 560   | 337 | 95   |
+| 61  | 599    | 646   | 342 | 108  |
+| 63  | 642    | 680   | 311 | 107  |
+| 64  | 704    | 724   | 376 | 172  |
+| 65  | 993    | 960   | 362 | 158  |
+| 66  | 635    | 644   | 322 | 112  |
+| 66  | 679    | 686   | 328 | 112  |
+| 66  | 914    | 886   | 373 | 200  |
+| 67  | 993    | 960   | 362 | 158  |
+| 67  | 853    | 970   | 377 | 206  |
+| 67  | 981    | 986   | 409 | 214  |
+| 72  | 1314   | 1289  | 394 | 271  |
+| 72  | 1554   | 1709  | 414 | 324  |
+| 74  | 1325   | 1496  | 378 | 277  |
+| 81  | 2506   | 2164  | 434 | 392  |
+| 82  | 2548   | 2365  | 457 | 430  |
+| 83  | 2606   | 2447  | 509 | 480  |
+| 84  | 2564   | 2421  | 509 | 480  |
+| 87  | 2551   | 2447  | 509 | 480  |
+| 89  | 2543   | 2434  | 509 | 480  |
+| 90  | 3248   | 3301  | 498 | 561  |
+| 90  | 3018   | 3007  | 489 | 570  |
+| 90  | 3046   | 3164  | 504 | 596  |
+| 90  | 3320   | 3326  | 504 | 606  |
+| 90  | 3588   | 3456  | 504 | 613  |
+| 90  | 3952   | 3581  | 534 | 614  |
+| 92  | 3898   | 3581  | 534 | 618  |
+| 94  | 3925   | 3599  | 534 | 618  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
