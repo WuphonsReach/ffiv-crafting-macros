@@ -7,6 +7,7 @@ At level 86, you gain "Groundwork Mastery".
   - [L86/D70 CP532 17.3MM](#l86d70-cp532-173mm)
   - [L86/D80 CP450 15.6x](#l86d80-cp450-156x)
   - [L86/D80 CP491 18.3MM](#l86d80-cp491-183mm)
+  - [L88/D40 CP562 11.6x](#l88d40-cp562-116x)
 
 ## L86/D75 CP506 21.1MM
 
@@ -100,3 +101,26 @@ A no [Manipulation](https://ffxiv.consolegameswiki.com/wiki/Manipulation) macro 
 /ac Groundwork <wait.3>
 /ac "Careful Synthesis" <wait.3>
 ```
+
+## L88/D40 CP562 11.6x
+
+Can be used around level 94 to craft level 96 recipes like Acacia Lumber (2700) but requires 3620 craftsmanship and 562 CP.  Gives 92% HQ chance at 3620 control.
+
+```
+/ac Reflect <wait.3>
+/ac Manipulation <wait.2>
+/ac "Waste Not II" <wait.2>
+/ac Innovation <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac Groundwork <wait.3>
+/ac Veneration <wait.2>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac Groundwork <wait.3>
+```
+
